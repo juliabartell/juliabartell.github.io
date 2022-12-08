@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font: size 15px; 
+    color: coral;
+    background-color: antiquewhite;
+}
+li {
+font: size 14px;
+font-style: italic;
+font-weight: normal;
+}
+a{
+color: deeppink;
+}
+.bold{
+    font-weight: bolder;
+}
+.resumelistheading {
+font-weight: bold;
+font-style: normal;
+}
+.underline{text-decoration: underline;}
+.bold{font-weight: bold;}
+.justify{text-align: justify;}
+.homebg{background-image: url(44A9ECC7-7764-4301-8143-F55B816E386C_1_102_o.jpeg);}
+.header {
+    padding: 20px;
+    text-align: center;
+    background: #151515c6;
+    color: white;
+    font-size: 25px;
+  }
+  .Div2{color: rgb(59, 59, 52);}
+  .Div3{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;color: indianred;} 
+
